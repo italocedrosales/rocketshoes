@@ -36,5 +36,6 @@ module.exports = {
     'react/no-unused-state': 'off',
     'react/destructuring-assignment': 'off',
     'react/static-property-placement': 'off',
+    'jsx-a11y/control-has-associated-label': 'off',
   },
 };
