@@ -37,5 +37,6 @@ module.exports = {
     'react/destructuring-assignment': 'off',
     'react/static-property-placement': 'off',
     'jsx-a11y/control-has-associated-label': 'off',
+    'react/prop-types': 'off',
   },
 };
