@@ -39,5 +39,6 @@ module.exports = {
     'jsx-a11y/control-has-associated-label': 'off',
     'react/prop-types': 'off',
     'no-console': ["error", { allow: ["tron"] }],
+    'no-param-reassign': 'off',
   }
 };
