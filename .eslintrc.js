@@ -40,5 +40,6 @@ module.exports = {
     'react/prop-types': 'off',
     'no-console': ["error", { allow: ["tron"] }],
     'no-param-reassign': 'off',
+    'no-return-assign': 'off',
   }
 };
